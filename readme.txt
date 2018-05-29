@@ -1,1 +1,2 @@
-shit Git bash is strong.
+shit Git bash is very strong.
+changes line.
